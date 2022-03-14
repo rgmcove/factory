@@ -1,0 +1,5 @@
+rootProject.name = 'factory'
+include 'client'
+include 'product'
+include 'invoice'
+
